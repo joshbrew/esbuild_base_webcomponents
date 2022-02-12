@@ -1,7 +1,7 @@
 {
   "name": "esbuild_custom",
   "version": "0.0.1",
-  "description": "Barebones ESBuild and test node server implementation. For building",
+  "description": "Barebones esbuild and test node server implementation. For building",
   "main": "app.js",
   "scripts": {
     "start": "node node_server/server.js",
@@ -18,7 +18,7 @@
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "esbuild": "^0.14.21",
-    "fragelement": "^1.0.4"
+    "fragelement": "^1.0.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.15",

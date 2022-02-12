@@ -1,15 +1,15 @@
-ESBuild instructions: [Link](https://esbuild.github.io/getting-started/#your-first-bundle)
+## esbuild instructions: [Link](https://esbuild.github.io/getting-started/#your-first-bundle)
 
 Also see rollup options.
 
 The bundler implementation just builds src/app.js into dist/app.js. 
 
-ESBuild enables coding in the latest ECMAScript syntax, .jsx compilation, .ts compilation, etc. with efficient build times into
+esbuild enables coding in the latest ECMAScript syntax, .jsx compilation, .ts compilation, etc. with efficient build times into
 servable app files.
 
 
 
-For React builds:
+## For React builds:
 
 `npm i react react-dom`
 
