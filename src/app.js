@@ -6,5 +6,3 @@ console.log('custom element:', elm, elm.__proto__);
 
 
 
-//console.log('Test');
-
