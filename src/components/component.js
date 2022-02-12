@@ -20,7 +20,7 @@ export class Custom extends DOMElement {
         };
     }
     //onresize=(props)=>{} //on window resize
-    //onchange=(props)=>{} //on props changed
+    //onchanged=(props)=>{} //on props changed
     //ondelete=(props)=>{} //on element deleted. Can remove with this.delete() which runs cleanup functions
 }
 
